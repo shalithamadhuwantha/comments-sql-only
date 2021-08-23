@@ -16,3 +16,5 @@
 🔥same as whatsapp  msg<br> 
 🔥color full<br> 
 🔥unicode support<br> 
+🔥AUTOMATIC SEND LOGIN MSG..
+
